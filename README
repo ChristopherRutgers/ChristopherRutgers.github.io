@@ -1,0 +1,28 @@
+# Christopher Ramnauth — Portfolio
+
+A responsive, static portfolio designed for GitHub Pages. No installation, build step, or JavaScript is required.
+
+## Preview
+
+Open `index.html` in a browser. Keep `styles.css` and the `assets` folder alongside it.
+
+## Publish on GitHub Pages
+
+1. Create a GitHub repository. For your main personal website, name it `YOUR-USERNAME.github.io`, replacing `YOUR-USERNAME` with your actual GitHub username.
+2. Upload the **contents** of this folder to the repository root: `index.html`, `styles.css`, and the entire `assets` folder.
+3. In the repository, open **Settings → Pages**. Select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
+4. Once GitHub finishes deployment, open the site URL shown in Pages settings.
+
+A repository with another name can also host the site. All local links are relative and support a project site URL.
+
+## Personalize
+
+- Edit text and links in `index.html`; edit colors and spacing in `styles.css`.
+- Your uploaded portrait is included as `assets/profile.jpg`; its circular framing is controlled by `img.portrait` in the stylesheet.
+- The inventory digitization project summary and results are based on the supplied résumé. The restaurant growth analysis is based on the supplied Management Skills group report, with team attribution. The business is anonymized and the original report is not included because it records privacy concerns and a class-limited disclosure offer. Recommendations are presented as proposed, not implemented outcomes.
+- Add project presentation or code links when available. None were supplied, so there are no invented or inactive project links.
+- The résumé download includes the supplied PDF and its contact details. Review the document before making the repository public.
+
+## Included sections
+
+Personal statement, highlighted professional skills, and two project case studies. Each project includes an expandable contribution description. Email, LinkedIn, navigation, and résumé download links are functional.
